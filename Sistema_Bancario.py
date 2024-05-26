@@ -1,4 +1,7 @@
-menu = """
+import textwrap
+def menu():
+
+menu = """\n
 
 [d] Depositar
 [s] Sacar
